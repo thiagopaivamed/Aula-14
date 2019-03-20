@@ -1,2 +1,4 @@
-# Aula-10
-Curso ASP NET CORE MVC 2 - Aula 10
+# Aula-14
+Curso ASP NET CORE MVC 2 - 
+
+Aula 14 - Implementação Code-First
